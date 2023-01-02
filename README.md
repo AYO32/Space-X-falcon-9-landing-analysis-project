@@ -1,4 +1,4 @@
-# Space-X-falcon-9-landing-analysis-project
+# Space-X-Falcon-9-Landing-Analysis-Project
 This  project will ultimately predict if the Space X Falcon 9 first stage will land successfully.
 
 # Context and Business Understanding
@@ -38,12 +38,12 @@ This project follows these steps:
    b) Plotting confusion matrices for each classification model
    c) Assessing the accuracy of each classification model   
    
-   ### Key Skills Learned/Used
-   a) Using data science methodologies to define and formulate a real-world business problem
-   b) Using data analysis and data visualisation to load a dataset, clean it, and find out interesting insights from it
-   c) Interactive dashboard development with Plotly Dash
-   d) Interactive map development using Folium
-   c) Using machine learning to build a predictive model to help a business function more efficiently
-   d) Structuring and building a data-findings report
+   # Key Skills Learned/Used
+  * a) Using data science methodologies to define and formulate a real-world business problem
+  * b) Using data analysis and data visualisation to load a dataset, clean it, and find out interesting insights from it
+  * c) Interactive dashboard development with Plotly Dash
+  * d) Interactive map development using Folium
+  * c) Using machine learning to build a predictive model to help a business function more efficiently
+  * d) Structuring and building a data-findings report
    
    
