@@ -8,26 +8,26 @@ If we can make predictions on whether the first stage will land, we can determin
 
 This project follows these steps:
 1. Data Collection
-   a) Making GET requests to the SpaceX REST API
-   b) Web Scraping
+   * a) Making GET requests to the SpaceX REST API
+   * b) Web Scraping
    
 2. Data Wrangling
-   a) Using the .fillna() method to remove NaN values
-   b) Using the .value_counts() method to determine the following:
-      b.1 Number of launches on each site
-      b.2 Number and occurrence of each orbit
-      b.3 Number and occurrence of mission outcome per orbit type
-   c) Creating a landing outcome label that shows the following:
-      c.1 0 when the booster did not land successfully
-      c.2 1 when the booster did land successfully
+   * a) Using the .fillna() method to remove NaN values
+   * b) Using the .value_counts() method to determine the following:
+      * b.1 Number of launches on each site
+      * b.2 Number and occurrence of each orbit
+      * b.3 Number and occurrence of mission outcome per orbit type
+ * c) Creating a landing outcome label that shows the following:
+     * c.1 0 when the booster did not land successfully
+     * c.2 1 when the booster did land successfully
       
 3. Exploratory Data Analysis
-   a) Using SQL queries to manipulate and evaluate the SpaceX dataset
-   b) Using Pandas and Matplotlib to visualize relationships between variables, and determine patterns 
+   * a) Using SQL queries to manipulate and evaluate the SpaceX dataset
+   * b) Using Pandas and Matplotlib to visualize relationships between variables, and determine patterns 
    
 4. Interactive Visual Analytics
-   a) Geospatial analytics using Folium
-   b) Creating an interactive dashboard using Plotly Dash  
+   * a) Geospatial analytics using Folium
+   * b) Creating an interactive dashboard using Plotly Dash  
    
 5. Predictive Analysis (Classification)
  *  a) Using Scikit-Learn to:  
