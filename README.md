@@ -18,8 +18,8 @@ This project follows these steps:
       * b.2 Number and occurrence of each orbit
       * b.3 Number and occurrence of mission outcome per orbit type
  * c) Creating a landing outcome label that shows the following:
-     * c.1 0 when the booster did not land successfully
-     * c.2 1 when the booster did land successfully
+     * c.1,  0 when the booster did not land successfully
+     * c.2,  1 when the booster did land successfully
       
 3. Exploratory Data Analysis
    * a) Using SQL queries to manipulate and evaluate the SpaceX dataset
