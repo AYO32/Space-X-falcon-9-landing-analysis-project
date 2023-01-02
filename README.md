@@ -30,13 +30,13 @@ This project follows these steps:
    b) Creating an interactive dashboard using Plotly Dash  
    
 5. Predictive Analysis (Classification)
-   a) Using Scikit-Learn to:  
-      a.1 Pre-process (standardize) the data
-      a.2 Split the data into training and testing data using train_test_split
-      a.3 Train different classification models
-      a.4 Find hyperparameters using GridSearchCV
-   b) Plotting confusion matrices for each classification model
-   c) Assessing the accuracy of each classification model   
+ *  a) Using Scikit-Learn to:  
+    *  a.1 Pre-process (standardize) the data
+    *  a.2 Split the data into training and testing data using train_test_split
+    *  a.3 Train different classification models
+    *  a.4 Find hyperparameters using GridSearchCV
+ *  b) Plotting confusion matrices for each classification model
+ *  c) Assessing the accuracy of each classification model   
    
    # Key Skills Learned/Used
   * a) Using data science methodologies to define and formulate a real-world business problem
