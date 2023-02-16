@@ -23,23 +23,23 @@ This project follows these steps:
  * c) Creating a landing outcome label that shows the following:
      * c.1,  0 when the booster did not land successfully
      * c.2,  1 when the booster did land successfully
-     ![wrangling](https://user-images.githubusercontent.com/91481737/219338682-48cd1f58-de64-4992-a9af-577b621b4efa.PNG)
+    ![wrangling](https://user-images.githubusercontent.com/91481737/219338682-48cd1f58-de64-4992-a9af-577b621b4efa.PNG)
      
-     ![Web scraping](https://user-images.githubusercontent.com/91481737/219339879-066a3856-e646-4bbb-a978-336ef463eef9.PNG)
+    ![Web scraping](https://user-images.githubusercontent.com/91481737/219339879-066a3856-e646-4bbb-a978-336ef463eef9.PNG)
       
 3. Exploratory Data Analysis
    * a) Using SQL queries to manipulate and evaluate the SpaceX dataset
    * b) Using Pandas and Matplotlib to visualize relationships between variables, and determine patterns 
-   ![SQL](https://user-images.githubusercontent.com/91481737/219341235-8c63745f-08f8-4d8d-8ccf-2908015c310d.PNG)
+    ![SQL](https://user-images.githubusercontent.com/91481737/219341235-8c63745f-08f8-4d8d-8ccf-2908015c310d.PNG)
    
-   ![visualization](https://user-images.githubusercontent.com/91481737/219341840-7f86f92f-2872-46ed-bddc-6c50e350195f.PNG)
+    ![visualization](https://user-images.githubusercontent.com/91481737/219341840-7f86f92f-2872-46ed-bddc-6c50e350195f.PNG)
    
 4. Interactive Visual Analytics
    * a) Geospatial analytics using Folium
    * b) Creating an interactive dashboard using Plotly Dash  
-   ![FOLIUM](https://user-images.githubusercontent.com/91481737/219344387-0959b4b2-5d4c-46d4-834b-0e2fb9a8edbe.PNG)
+    ![FOLIUM](https://user-images.githubusercontent.com/91481737/219344387-0959b4b2-5d4c-46d4-834b-0e2fb9a8edbe.PNG)
    
-   ![PLOTLY](https://user-images.githubusercontent.com/91481737/219344768-339a9e6e-1c51-4ca6-a18d-af6530b50671.PNG)
+    ![PLOTLY](https://user-images.githubusercontent.com/91481737/219344768-339a9e6e-1c51-4ca6-a18d-af6530b50671.PNG)
    
 5. Predictive Analysis (Classification)
  *  a) Using Scikit-Learn to:  
@@ -49,6 +49,7 @@ This project follows these steps:
     *  a.4 Find hyperparameters using GridSearchCV
  *  b) Plotting confusion matrices for each classification model
  *  c) Assessing the accuracy of each classification model   
+    ![CLASSIFICATION](https://user-images.githubusercontent.com/91481737/219346038-fe8d830c-4cd4-4dc8-b9d4-376516b7a8fc.PNG)
    
  
    
