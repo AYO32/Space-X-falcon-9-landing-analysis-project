@@ -12,6 +12,7 @@ This project follows these steps:
 1. Data Collection
    * a) Making GET requests to the SpaceX REST API
    * b) Web Scraping
+   ![image](https://user-images.githubusercontent.com/91481737/219337274-d229ae5e-e349-4b65-b3cf-fa67c269609b.png)
    
 2. Data Wrangling
    * a) Using the .fillna() method to remove NaN values
