@@ -1,6 +1,8 @@
 # Space-X-Falcon-9-Landing-Analysis-Project
 This  project will ultimately predict if the Space X Falcon 9 first stage will land successfully.
 
+![introduction](https://user-images.githubusercontent.com/91481737/219335101-423e2631-a5b9-4683-ba89-712619dcb83b.PNG)
+
 # Context and Business Understanding
 SpaceX launches Falcon 9 rockets at a cost of around $62m. This is considerably cheaper than other providers (which usually cost upwards of $165m), and much of the savings are because SpaceX can land, and then re-use the first stage of the rocket.
 
