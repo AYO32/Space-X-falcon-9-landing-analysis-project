@@ -23,6 +23,7 @@ This project follows these steps:
  * c) Creating a landing outcome label that shows the following:
      * c.1,  0 when the booster did not land successfully
      * c.2,  1 when the booster did land successfully
+     ![wrangling](https://user-images.githubusercontent.com/91481737/219338682-48cd1f58-de64-4992-a9af-577b621b4efa.PNG)
       
 3. Exploratory Data Analysis
    * a) Using SQL queries to manipulate and evaluate the SpaceX dataset
