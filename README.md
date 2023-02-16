@@ -32,6 +32,8 @@ This project follows these steps:
    * b) Using Pandas and Matplotlib to visualize relationships between variables, and determine patterns 
    ![SQL](https://user-images.githubusercontent.com/91481737/219341235-8c63745f-08f8-4d8d-8ccf-2908015c310d.PNG)
    
+   ![visualization](https://user-images.githubusercontent.com/91481737/219341840-7f86f92f-2872-46ed-bddc-6c50e350195f.PNG)
+   
 4. Interactive Visual Analytics
    * a) Geospatial analytics using Folium
    * b) Creating an interactive dashboard using Plotly Dash  
