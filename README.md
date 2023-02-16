@@ -39,6 +39,8 @@ This project follows these steps:
    * b) Creating an interactive dashboard using Plotly Dash  
    ![FOLIUM](https://user-images.githubusercontent.com/91481737/219344387-0959b4b2-5d4c-46d4-834b-0e2fb9a8edbe.PNG)
    
+   ![PLOTLY](https://user-images.githubusercontent.com/91481737/219344768-339a9e6e-1c51-4ca6-a18d-af6530b50671.PNG)
+   
 5. Predictive Analysis (Classification)
  *  a) Using Scikit-Learn to:  
     *  a.1 Pre-process (standardize) the data
