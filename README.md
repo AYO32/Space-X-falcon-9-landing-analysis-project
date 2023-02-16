@@ -37,6 +37,7 @@ This project follows these steps:
 4. Interactive Visual Analytics
    * a) Geospatial analytics using Folium
    * b) Creating an interactive dashboard using Plotly Dash  
+   ![FOLIUM](https://user-images.githubusercontent.com/91481737/219344387-0959b4b2-5d4c-46d4-834b-0e2fb9a8edbe.PNG)
    
 5. Predictive Analysis (Classification)
  *  a) Using Scikit-Learn to:  
