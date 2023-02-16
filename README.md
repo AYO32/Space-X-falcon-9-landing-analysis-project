@@ -24,6 +24,8 @@ This project follows these steps:
      * c.1,  0 when the booster did not land successfully
      * c.2,  1 when the booster did land successfully
      ![wrangling](https://user-images.githubusercontent.com/91481737/219338682-48cd1f58-de64-4992-a9af-577b621b4efa.PNG)
+     
+     ![Web scraping](https://user-images.githubusercontent.com/91481737/219339879-066a3856-e646-4bbb-a978-336ef463eef9.PNG)
       
 3. Exploratory Data Analysis
    * a) Using SQL queries to manipulate and evaluate the SpaceX dataset
