@@ -30,6 +30,7 @@ This project follows these steps:
 3. Exploratory Data Analysis
    * a) Using SQL queries to manipulate and evaluate the SpaceX dataset
    * b) Using Pandas and Matplotlib to visualize relationships between variables, and determine patterns 
+   ![SQL](https://user-images.githubusercontent.com/91481737/219341235-8c63745f-08f8-4d8d-8ccf-2908015c310d.PNG)
    
 4. Interactive Visual Analytics
    * a) Geospatial analytics using Folium
